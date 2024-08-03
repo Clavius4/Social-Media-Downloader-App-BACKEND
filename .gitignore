@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional: build directories
+dist/
+build/
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: IDE-specific files
+.vscode/
+.idea/
